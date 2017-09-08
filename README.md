@@ -3,6 +3,8 @@ ReactJS exercises
 
 ## Getting started
 
+Builded with ReactJs starter kit (https://github.com/hamzaerbay/react-starter-kit)
+
 This project is using webpack and sass css pre-processor.
 
 Before started 
